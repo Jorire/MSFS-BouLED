@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSFS-BouLED", "MSFS-BouLED.csproj", "{435B73A1-B98A-4D81-92B5-FF96CC76A9ED}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupBouLED", "..\SetupBouLED\SetupBouLED.vdproj", "{6F2775AE-414B-4F9C-8EF4-2891C3DED455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{435B73A1-B98A-4D81-92B5-FF96CC76A9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435B73A1-B98A-4D81-92B5-FF96CC76A9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435B73A1-B98A-4D81-92B5-FF96CC76A9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435B73A1-B98A-4D81-92B5-FF96CC76A9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2775AE-414B-4F9C-8EF4-2891C3DED455}.Debug|Any CPU.ActiveCfg = Debug
+		{6F2775AE-414B-4F9C-8EF4-2891C3DED455}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
